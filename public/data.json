@@ -1,0 +1,23 @@
+[
+    {
+      "name":"Lance Jarvis",
+      "location":"London, UK",
+      "designation":"General Manager ",
+      "avatar":"https://testimonialapi.toolcarton.com/avatar/1.jpg",
+      "message":"We have been using product for last one year, and I have to say that it has transformed the way we do business. Thank you for awesome service."
+    },
+    {
+      "name":"Juliet Wright",
+      "location":"Sweden",
+      "designation":"Technical Director",
+      "avatar":"https://testimonialapi.toolcarton.com/avatar/2.jpg",
+      "message":"It has changed the way I used the website. Product lets you create anything"
+    },
+    {
+      "name":"Michael D.",
+      "location":"Austin, Texas",
+      "designation":"Investor",
+      "avatar":"https://testimonialapi.toolcarton.com/avatar/3.jpg",
+      "message":"Insights from service drove 30% lift in our conversions, this product service is essential for your company growth strategy."
+    }
+]
